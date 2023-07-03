@@ -8,4 +8,4 @@ pip install -r requirements.txt
 ```
 
 ### Notes
-Do note that you will need a MongoDB account and this will need to be kept in a .env file. To create a MongoDB account, visit mongodb.com [https://www.mongodb.com/]
+Do note that you will need a MongoDB account and this will need to be kept in a .env file. To create a MongoDB account, visit [mongodb.com](https://www.mongodb.com/).
