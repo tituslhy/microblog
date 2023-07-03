@@ -145,10 +145,14 @@ body{
 
 .footer__item{
     margin-bottom: 5px;
-    color: inherit;
     text-decoration: none;
 }
 
-.footer__item:hover{
+a{
+    color: #FFF;
+    text-decoration: none;
+}
+
+a:hover{
     text-decoration: underline;
 }
