@@ -15,7 +15,7 @@ To run this project, first run the following command to instantiate the code env
 git clone https://github.com/tituslhy/microblog
 pip install -r requirements.txt
 ```
-<br>
+
 Then run the following codes to run them on your local machine
 ```
 export FLASK_APP=app.py
